@@ -10,7 +10,7 @@ namespace TesteConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello word");
+            Console.WriteLine("hello word com C# no visual 2019");
             Console.ReadKey();
         }
     }
